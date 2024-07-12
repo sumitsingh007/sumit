@@ -41,6 +41,72 @@
 
   <div class="art-grid art-grid-3-col art-gallery">
 
+      <!-- grid item -->
+      <div class="art-grid-item webdesign">
+      <!-- grid item frame -->
+      <a data-fancybox="gallery" href="img/works/thumbnail/3.jpg" class="art-a art-portfolio-item-frame art-square">
+        <!-- img -->
+        <img src="img/works/thumbnail/3.jpg" alt="item">
+        <!-- zoom icon -->
+        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
+      </a>
+      <!-- grid item frame end -->
+      <!-- description -->
+      <div class="art-item-description">
+        <!-- title -->
+        <h5 class="mb-15">Cloud TV</h5>
+        <!-- button -->
+        <div class="art-buttons-frame"><a id="demo03" href="#modal-03" class="art-link art-color-link art-w-chevron">Know More</a></div>
+      </div>
+      <!-- description end -->
+
+    </div>
+    <!-- grid item end -->
+
+    <!-- grid item -->
+    <div class="art-grid-item webdesign">
+      <!-- grid item frame -->
+      <a data-fancybox="gallery" href="img/works/thumbnail/2.jpg" class="art-a art-portfolio-item-frame art-vertical">
+        <!-- img -->
+        <img src="img/works/thumbnail/2.jpg" alt="item">
+        <!-- zoom icon -->
+        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
+      </a>
+      <!-- grid item frame end -->
+      <!-- description -->
+      <div class="art-item-description">
+        <!-- title -->
+        <h5 class="mb-15">Timberline Helicharters</h5>
+        <!-- button -->
+        <div class="art-buttons-frame"><a id="demo02" href="#modal-02" class="art-link art-color-link art-w-chevron">Know More</a></div>
+      </div>
+      <!-- description end -->
+
+    </div>
+    <!-- grid item end -->
+
+        <!-- grid item -->
+        <div class="art-grid-item webdesign">
+      <!-- grid item frame -->
+      <a data-fancybox="gallery" href="img/works/thumbnail/3.jpg" class="art-a art-portfolio-item-frame art-square">
+        <!-- img -->
+        <img src="img/works/thumbnail/3.jpg" alt="item">
+        <!-- zoom icon -->
+        <span class="art-item-hover"><i class="fas fa-expand"></i></span>
+      </a>
+      <!-- grid item frame end -->
+      <!-- description -->
+      <div class="art-item-description">
+        <!-- title -->
+        <h5 class="mb-15">Cloud TV</h5>
+        <!-- button -->
+        <div class="art-buttons-frame"><a id="demo03" href="#modal-03" class="art-link art-color-link art-w-chevron">Know More</a></div>
+      </div>
+      <!-- description end -->
+
+    </div>
+    <!-- grid item end -->
+
     <!-- grid item -->
     <div class="art-grid-item webdesign">
       <!-- grid item frame -->

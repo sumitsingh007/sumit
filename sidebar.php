@@ -19,8 +19,8 @@
   <div class="art-header">
     <!-- avatar -->
     <div class="art-avatar">
-      <a data-fancybox="avatar" href="img/face-1.jpg" class="art-avatar-curtain">
-        <img src="img/face-1.jpg" alt="avatar">
+      <a data-fancybox="avatar" href="img/face-01.png" class="art-avatar-curtain">
+        <img src="img/face-01.png" alt="avatar">
         <i class="fas fa-expand"></i>
       </a>
       <!-- available -->
@@ -33,7 +33,7 @@
     <!-- name -->
     <a href="index.php" class="art-name mb-10"><h5>Sumit Singh</h5></a>
     <!-- post -->
-    <div class="art-sm-text">Graphics Designer | Full Stack Web Developer | Data Analyst | Entrepreneur</div>
+    <div class="art-sm-text">Full Stack Web Developer | Graphics Designer | Social Media Marketing Expert | Entrepreneur</div>
   
   </div>
   <!-- info bar header end -->
@@ -56,7 +56,7 @@
         </li>
         <!-- age -->
         <li>
-          <h6>Age:</h6><span>24</span>
+          <h6>Age:</h6><span>28</span>
         </li>
       </ul>
     </div>
@@ -105,7 +105,7 @@
       <div class="art-hard-skills-item">
         <div class="art-skill-heading">
           <!-- title -->
-          <h6>html5</h6>
+          <h6>HTML5</h6>
         </div>
         <!-- progressbar frame -->
         <div class="art-line-progress">
@@ -491,7 +491,7 @@
     <div class="art-links-frame p-15-15">
 
       <!-- download cv button -->
-      <a href="files/sumit-cv.pdf" class="art-link" download><h4>Download cv <i class="fas fa-download"></i></h4></a>
+      <!-- <a href="files/sumit-cv.pdf" class="art-link" download><h4>Download cv <i class="fas fa-download"></i></h4></a> -->
 
     </div>
     <!-- links frame end -->
@@ -504,13 +504,13 @@
     <!-- social link -->
     <a href="https://www.linkedin.com/in/sumitsingh19/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
     <!-- social link -->
-    <a href="https://www.facebook.com/sumitsingh19/" target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="#" target="_blank"><i class="fab fa-facebook"></i></a>
     <!-- social link -->
-    <a href="https://www.instagram.com/_iamsumitsingh/" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.instagram.com/hodophile.ie/" target="_blank"><i class="fab fa-instagram"></i></a>
     <!-- social link -->
-    <a href="https://github.com/sumitsingh007" target="_blank"><i class="fab fa-github"></i></a>
+    <a href="#" target="_blank"><i class="fab fa-github"></i></a>
     <!-- social link -->
-    <a href="https://twitter.com/sumitsingh_007" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="#" target="_blank"><i class="fab fa-twitter"></i></a>
   </div>
   <!-- sidebar social end -->
 
